@@ -1,5 +1,4 @@
 import tkinter as tk
-import json
 
 # Title of window
 root = tk.Tk()
